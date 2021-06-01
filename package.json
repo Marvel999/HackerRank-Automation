@@ -1,0 +1,14 @@
+{
+  "name": "hackerrank_puppeteer",
+  "version": "1.0.0",
+  "description": "This is HackerRank automation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
